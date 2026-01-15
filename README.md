@@ -1,3 +1,7 @@
+This project is a Nuxt Content instance with TailwindCSS and DaisyUI.
+
+I'm trying to make a static github dot io website, in hopes to always have some semblance of an about me page.
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.

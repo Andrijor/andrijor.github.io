@@ -17,7 +17,7 @@
 
 <script lang="ts" setup>
 useHead({
-  title: "Andrés JM - Interests",
+  title: "Andrés J. - Interests",
 });
 </script>
 

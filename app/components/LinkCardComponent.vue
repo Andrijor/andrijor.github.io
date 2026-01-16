@@ -1,8 +1,11 @@
 <template>
-  <div v-if="category" class="h-full bg-black/5 dark:bg-black/10">
+  <div
+    v-if="category"
+    class="h-full bg-teal-100/30 dark:bg-black/10 hover:dark:bg-purple-900/30 hover:bg-teal-100/50 transition-colors duration-300"
+  >
     <NuxtLink
       :to="`/${category}`"
-      class="grid grid-cols-[2fr_3fr] grid-rows-1 items-center p-4 gap-4 h-full"
+      class="grid grid-cols-[2fr_3fr] grid-rows-1 items-center p-12 gap-4 h-full"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"

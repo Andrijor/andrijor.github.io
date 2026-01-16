@@ -23,21 +23,17 @@
   </div>
   <div
     id="mobile-contents"
-    class="grid grid-rows-[2fr_1fr_1fr_1fr] sm:hidden pb-4 gap-y-1"
+    class="grid grid-rows-[2fr_3fr] sm:hidden pb-4 gap-y-1 items-center h-full"
   >
-    <div class="p-4 flex flex-col justify-center text-left">
+    <div class="p-4 flex flex-col justify-center text-left self-end">
       <h1 class="text-4xl mb-2">Andrés J.</h1>
       <h2 class="text-2xl">Studying Computer Science (MSc.)</h2>
       <h3 class="text-lg">TU Berlin, Germany</h3>
       <p class="text-lg mt-2">Currently looking for a subject for my thesis!</p>
     </div>
-    <div>
+    <div class="grid grid-rows-3 gap-y-4">
       <LinkCardComponent category="interests" />
-    </div>
-    <div>
       <LinkCardComponent category="skills" />
-    </div>
-    <div>
       <LinkCardComponent category="cv" />
     </div>
   </div>

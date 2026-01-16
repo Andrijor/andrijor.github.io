@@ -1,17 +1,15 @@
 <template>
   <div
     class="bg-gray-200 dark:bg-purple-900 h-screen hidden sm:grid"
-    style="grid-template-rows: auto 1fr auto"
+    style="grid-template-rows: 1fr"
   >
-    <NavbarComponent />
-    <main class=""></main>
-    <FooterComponent />
+    <IndexContentsComponent />
   </div>
   <div
     class="bg-gray-200 dark:bg-purple-900 h-screen grid sm:hidden"
     style="grid-template-rows: 1fr auto"
   >
-    <main class=""></main>
+    <IndexContentsComponent />
     <NavbarComponent />
   </div>
 </template>

@@ -5,7 +5,6 @@
   >
     <NavbarComponent />
     <main class=""></main>
-    <FooterComponent />
   </div>
   <div
     class="bg-gray-200 dark:bg-purple-900 h-screen grid sm:hidden"

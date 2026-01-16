@@ -8,6 +8,9 @@
       <h2 class="text-3xl">Studying Computer Science (MSc.)</h2>
       <h3 class="text-2xl">TU Berlin, Germany</h3>
       <p class="text-xl mt-8">Currently looking for a subject for my thesis!</p>
+      <p class="text-xl">
+        Please check out the interests section for potential thesis topics.
+      </p>
     </div>
     <div class="grid py-4 gap-y-4 grid-template-rows-[repeat(3, 1fr)]">
       <div>
@@ -30,6 +33,9 @@
       <h2 class="text-2xl">Studying Computer Science (MSc.)</h2>
       <h3 class="text-lg">TU Berlin, Germany</h3>
       <p class="text-lg mt-2">Currently looking for a subject for my thesis!</p>
+      <p class="text-lg">
+        Please check out the interests section for potential thesis topics.
+      </p>
     </div>
     <div class="grid grid-rows-3 gap-y-4">
       <LinkCardComponent category="interests" />

@@ -21,7 +21,10 @@
       </div>
     </div>
   </div>
-  <div id="mobile-contents" class="grid grid-rows-4 sm:hidden pb-4 gap-y-2">
+  <div
+    id="mobile-contents"
+    class="grid grid-rows-[2fr_1fr_1fr_1fr] sm:hidden pb-4 gap-y-1"
+  >
     <div class="p-4 flex flex-col justify-center text-left">
       <h1 class="text-4xl mb-2">Andrés J.</h1>
       <h2 class="text-2xl">Studying Computer Science (MSc.)</h2>

@@ -2,7 +2,7 @@
   <!-- class="btn btn-square btn-outline hover:bg-[#4b007d] hover:border-none hover:shadow-none sm:hidden" -->
   <!-- dark:bg-[#37005a] bg-gray-300 -->
   <div
-    class="grid bg-teal-100/30 dark:bg-black/10 hover:dark:bg-purple-900/30 hover:bg-teal-100/50 transition-colors duration-300 shadow-sm sm:px-2 px-8 py-2"
+    class="grid bg-teal-100/30 dark:bg-black/10 sm:px-2 px-8 py-2"
     style="grid-template-columns: 1fr 3fr; align-items: center; height: 100%"
   >
     <div class="">

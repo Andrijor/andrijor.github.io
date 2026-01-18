@@ -1,9 +1,9 @@
-This is a nuxt minimal server.
+This is a nuxt 3 server.
 
 It's got tailwindcss and daisyui.
 
-Now it's a clean project to start inputting proper contents into it.
+Also nuxt fonts, eslint and icons.
 
-Hopefully as a static website...
+Still a WIP.
 
 `npm run dev`
